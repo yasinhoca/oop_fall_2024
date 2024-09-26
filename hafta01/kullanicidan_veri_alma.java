@@ -2,13 +2,6 @@ package hafta01;
 
 import java.util.Scanner;
 
-
-
-
-
-
-
-
 public class kullanicidan_veri_alma {
 
     public static void main(String[] args) {

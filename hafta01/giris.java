@@ -1,13 +1,5 @@
 package hafta01;
 
-
-
-
-
-
-
-
-
 public class giris {
 
     public static void main(String[] args) {
