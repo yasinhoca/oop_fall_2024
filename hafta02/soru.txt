@@ -1,0 +1,17 @@
+Kendisine gönerilen yarıçap r, pi değeri ve yükseklik h
+değerlerini alıp bir silindirin hacmini hesaplayıp
+float olarak return eden methodu yazınız?
+
+
+
+
+
+
+
+yarıçap r tipi float;
+pi sayısı tipi float;
+h integer;
+dönüş tipi float;
+method ismi silindirHacmi olsun.
+
+hacim = pi*r*r*h
