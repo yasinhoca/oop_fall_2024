@@ -5,6 +5,7 @@ class Anasinif{ //superclass
     int a;
     void  yaz (){
         a = 5;
+        // b = 8; final olduğu için yeni değer ataması yapılamaz
         System.out.println("Ben ana sınıftan yazdırıldım");
     }
 }
