@@ -17,6 +17,8 @@ public class form1 extends JFrame{
         add(panel);
         setTitle("Regex Form Uygulaması");
         setSize(500,500);
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        
         ARAButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
